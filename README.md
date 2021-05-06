@@ -1,2 +1,4 @@
 # php_sort_numberic_format
-creating format sort number like social media 
+Social media numeric format
+#EXAMPLE 1K
+
